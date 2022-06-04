@@ -33,8 +33,7 @@ Passar instruções para todos os domínios acessar a API (Não recomendado na p
 
     CORS_ORIGIN_ALLOW_ALL = True
     
----------------------------------------------------------------------------------------------------------------------------------------------------------  
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------  
 # Criar os models necessários no arquivo models.py do app (detalhes do departamento e outro os detalhes do funcionários)
 
     class Departamentos(models.Model):
@@ -381,6 +380,7 @@ Se precisar entrar em contato comigo pode encontrar pelos meios de comunicação
 
 	e-Mail: gustavo.dev97@gmail.com
 	GitHub: github.com/Gustav-dev97
+	
 
-Muito Obrigado!
+Muito Obrigado! :)
 
