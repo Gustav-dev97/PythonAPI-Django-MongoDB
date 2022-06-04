@@ -374,3 +374,13 @@ Método POST Arquivo:
     Value: GustavoLogoS.png
 
 (O arquivo irá para a pasta 'Fotos' do projeto)
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Se precisar entrar em contato comigo pode encontrar pelos meios de comunicação abaixo:
+
+	e-Mail: gustavo.dev97@gmail.com
+	GitHub: github.com/Gustav-dev97
+
+Muito Obrigado!
+
